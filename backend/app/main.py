@@ -34,7 +34,7 @@ app.add_middleware(
 )
 
 # Initialize model handler and risk scorer
-model_handler = ModelHandler(models_dir="../models")
+model_handler = ModelHandler(models_dir="models")
 risk_scorer = RiskScorer(model_handler)
 
 # Store API metrics in memory (in production, use database)
