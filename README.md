@@ -58,8 +58,6 @@ Runs on `http://localhost:3000`
 ---
 
 
-```
-
 Full API docs: https://purchase-intent-api.onrender.com/docs
 
 ---
